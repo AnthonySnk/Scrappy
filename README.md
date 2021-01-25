@@ -1,6 +1,6 @@
 #Comandos
 
- - [Creacion del entorno virtual] (#Creacion-del-entorno)
+ - [Creacion del entorno virtual](#Creacion-del-entorno)
 
  - [Activar el entorno] (#Activar-entorno-virtual)
 
