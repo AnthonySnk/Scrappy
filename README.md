@@ -2,9 +2,10 @@
 
  - [Creacion del entorno virtual](#Creacion-del-entorno)
 
- - [Activar el entorno] (#Activar-entorno-virtual)
+ - [Activar el entorno](#Activar-entorno-virtual)
 
  ## Creacion-del-entorno
-     ```py - m venv venv
+     ```cmd
+     py - m venv venv
      ```
  ## Activar entorno virtual
